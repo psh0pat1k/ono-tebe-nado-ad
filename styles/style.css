@@ -11,10 +11,6 @@
   row-gap: 180px;
 }
 
-.top-nav {
-  padding: 92px 50px 89px;
-}
-
 .nav-section,
 .logo-section,
 .contacts-section {
@@ -23,6 +19,7 @@
 }
 
 .top-nav {
+  padding: 92px 50px 89px;
   display: grid;
   grid-template-columns: 1fr auto 1fr;
   align-items: center;
